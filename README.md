@@ -16,8 +16,8 @@
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=plastic&logo=angular&logoColor=white)
 
 ### :books: Blog
-- :blue_book: [[Github Blog] https://ixtears23.github.io](https://ixtears23.github.io/posts/)
 - :orange_book: [[TiStory Blog] https://junseokoh.tistory.com](https://junseokoh.tistory.com)
+- :blue_book: [[Github Blog] https://ixtears23.github.io](https://ixtears23.github.io/posts/)
 
 
 ### :hearts: GitHub Stat
