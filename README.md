@@ -15,7 +15,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=plastic&logo=angular&logoColor=white)
 
-### :books: Blog
+### :books: GitHub & Blog
+- :green_book: [[GitHub] https://github.com/junseokoh0](https://github.com/junseokoh0)
 - :orange_book: [[TiStory Blog] https://junseokoh.tistory.com](https://junseokoh.tistory.com)
 - :blue_book: [[Github Blog] https://ixtears23.github.io](https://ixtears23.github.io/posts/)
 
