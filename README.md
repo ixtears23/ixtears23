@@ -15,5 +15,5 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=plastic&logo=angular&logoColor=white)
 
-### :hearts: GitHub Stat
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ixtears23&show_icons=true&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtears23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### :hearts: Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtears23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
