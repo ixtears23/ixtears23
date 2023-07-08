@@ -21,4 +21,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=JunseokOh&label=Profile%20Views&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-![](./profile-3d-contrib/profile-season-animate.svg) 
+![](./profile-3d-contrib/profile-green-animate.svg) 
