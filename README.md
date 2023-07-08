@@ -20,3 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtears23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=JunseokOh&label=Profile%20Views&color=2&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
