@@ -16,3 +16,5 @@
 
 #### :hearts: Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixtears23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=ixtears23&label=Profile%20Views&color=2&icon=6&pretty=false)](https://visitcount.itsvg.in)
