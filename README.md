@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-1294AB?style=plastic&logo=java&logoColor=white)
 ![SpringFramework](https://img.shields.io/badge/SpringFramework-47C83E?style=plastic&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-47C83E?style=plastic&logo=spring&logoColor=white)
+![SpringDataJPA](https://img.shields.io/badge/SpringBoot-47C83E?style=plastic&logo=spring&logoColor=white)
 ![SpringBatch](https://img.shields.io/badge/SpringBatch-47C83E?style=plastic&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF8224?style=plastic&logo=amazon&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-353535?style=plastic&logo=oracle&logoColor=white)
