@@ -14,7 +14,7 @@
   
 **:hammer: Sub Tech Stack**  
 ![Docker](https://img.shields.io/badge/Docker-46a2f1?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-47C83E?style=plastic&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4374D9?style=plastic&logo=kubernetes&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=plastic&logo=angular&logoColor=white)  
 
