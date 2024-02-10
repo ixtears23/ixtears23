@@ -1,8 +1,8 @@
 🥇 Let's run to be the best.
 ---
 **:wrench: Key Tech Stack**   
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031?style=plastic&logo=redis&logoColor=white)
 ![SpringFramework](https://img.shields.io/badge/SpringFramework-47C83E?style=plastic&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-47C83E?style=plastic&logo=spring&logoColor=white)
 ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA-47C83E?style=plastic&logo=spring&logoColor=white)
