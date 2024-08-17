@@ -8,7 +8,7 @@
 ![SpringBatch](https://img.shields.io/badge/SpringBatch-47C83E?style=plastic&logo=spring&logoColor=white)  
 ![Redis](https://img.shields.io/badge/redis-%23DD0031?style=plastic&logo=redis&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-E91E63?style=plastic&logo=amazon&logoColor=white)
-![SNS](https://img.shields.io/badge/SQS-E91E63?style=plastic&logo=amazon&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-E91E63?style=plastic&logo=amazon&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-664B00?style=plastic&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-353535?style=plastic&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF8224?style=plastic&logo=amazon&logoColor=white)
